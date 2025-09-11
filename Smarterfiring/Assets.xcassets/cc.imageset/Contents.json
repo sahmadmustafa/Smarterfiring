@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "land-for-sale-plots-of-land-across-Britain-970x628.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "land-for-sale-plots-of-land-across-Britain-970x628 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "land-for-sale-plots-of-land-across-Britain-970x628 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
