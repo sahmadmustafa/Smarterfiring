@@ -1,4 +1,16 @@
 # Smarterfiring
+
+Introduction to Smarterfiring 🔥🐉
+Welcome to Smarterfiring – a fast-paced action game where quick reflexes and strategic positioning lead to victory! Control your tiny hero and defend against incoming dragons by firing precise flame attacks.
+Game Concept:
+	•	Navigate a 5x5 grid battlefield
+	•	Dragons spawn at the edges and march inward
+	•	Time your attacks to hit dragons coming from the opposite direction
+	•	Score points for each successful hit
+	•	Survive for 2 minutes while maximizing your score
+Perfect for short gaming sessions with endless replay value! The simple controls hide surprisingly deep strategic gameplay.
+
+# Smarterfiring
 Smarterfiring
 
 <img width="277" height="600" alt="Simulator Screenshot - iPhone 16 Plus - 2025-05-22 at 12 57 47" src="https://github.com/user-attachments/assets/e553b21b-7d52-4a63-91bc-0dcbe4cc79bd" />
