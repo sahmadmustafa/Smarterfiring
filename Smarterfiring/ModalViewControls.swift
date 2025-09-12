@@ -4,6 +4,7 @@ import Foundation
 import SwiftUI
 import Combine
 
+
 // MARK: - Tiny Game State
 class TinyGameState: ObservableObject {
     @Published var tinyPosition = TinyPosition(x: 2, y: 2)
