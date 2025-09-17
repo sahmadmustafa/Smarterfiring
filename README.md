@@ -10,7 +10,6 @@ Game Concept:
 	•	Survive for 2 minutes while maximizing your score
 Perfect for short gaming sessions with endless replay value! The simple controls hide surprisingly deep strategic gameplay.
 
-
 # Smarterfiring
 Smarterfiring
 
